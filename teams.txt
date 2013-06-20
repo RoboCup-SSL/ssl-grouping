@@ -1,0 +1,23 @@
+1  USA        CMDragons
+1  Japan      RoboDragons
+1  Thailand   Plasma-Z
+1  China      ZjuNlict
+
+2  Germany    B-Smart
+2  Mexico     Eagle_Knights
+2  Japan      KIKS
+2  China      Wright_Eagle
+
+3  China2     Strive
+3  China      FANTASIA
+3  China      AUA_Ares
+3  Thailand   Skuba
+3  Finland    Botnia
+3  Thailand   Khainui
+3  Iran       MRL
+3  USA        RoboJackets
+3  Iran       Parsian
+3  Dumm      Dummy
+3  Dumm      Dummy2
+3  Dumm      Dummy3 
+
