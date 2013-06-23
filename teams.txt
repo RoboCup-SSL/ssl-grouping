@@ -1,23 +1,35 @@
-1  USA        CMDragons
-1  Japan      RoboDragons
-1  Thailand   Plasma-Z
-1  China      ZjuNlict
+# Bin 1 (Top 4 of previous year who submitted ETDPs, in points order)
+#--------------------------------------------------------------------
 
-2  Germany    B-Smart
-2  Mexico     Eagle_Knights
-2  Japan      KIKS
-2  China      Wright_Eagle
+1 Thailand 	Skuba
+1 China		ZJUNlict
+1 Japan 	KIKS
+1 Iran	 	Parsian
 
-3  China2     Strive
-3  China      FANTASIA
-3  China      AUA_Ares
-3  Thailand   Skuba
-3  Finland    Botnia
-3  Thailand   Khainui
-3  Iran       MRL
-3  USA        RoboJackets
-3  Iran       Parsian
-3  Dumm      Dummy
-3  Dumm      Dummy2
-3  Dumm      Dummy3 
+# Bin 2 (Next 4 of previous year who submitted ETDPs, in alpha order)
+#--------------------------------------------------------------------
 
+2 Iran		MRL
+2 Japan 	RoboDragons
+2 Dumm		Dummy1
+2 Dumm		Dummy2
+
+# Bin 3 (Normal teams, in alpha order)
+#-------------------------------------
+
+3 Turkey 	BRocks
+3 USA		CMDragons
+3 Pakistan	EMEnents
+3 Germany 	ER-Force
+3 Japan		MCT_Susanoo_Logics
+3 Cyprus	NEUIslanders
+3 Japan		ODENS
+3 USA		RFC_Cambridge
+3 Brazil 	RoboFEI
+3 Brazil	RoboIME
+3 USA 		RoboJackets
+3 Colombia 	STOxs
+3 Canada	Thunderbots
+3 Germany 	TIGERS_Mannheim
+3 Dumm		Dummy3
+3 Dumm		Dummy4
