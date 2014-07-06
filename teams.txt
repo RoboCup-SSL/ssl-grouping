@@ -1,35 +1,32 @@
-# Bin 1 (Top 4 of previous year who submitted ETDPs, in points order)
-#--------------------------------------------------------------------
-
-1 Thailand 	Skuba
+# Seed Group 1:
 1 China		ZJUNlict
-1 Japan 	KIKS
-1 Iran	 	Parsian
+1 USA		CMDragons
+1 Iran		MRL
+1 Japan		RoboDragons
 
-# Bin 2 (Next 4 of previous year who submitted ETDPs, in alpha order)
-#--------------------------------------------------------------------
+# Seed Group 2:
+2 Japan		KIKS
+2 Colombia	STOX’s
+2 Dummy		Dummy 1
+2 Dummy		Dummy 2
 
-2 Iran		MRL
-2 Japan 	RoboDragons
-2 Dumm		Dummy1
-2 Dumm		Dummy2
-
-# Bin 3 (Normal teams, in alpha order)
-#-------------------------------------
-
-3 Turkey 	BRocks
-3 USA		CMDragons
-3 Pakistan	EMEnents
-3 Germany 	ER-Force
-3 Japan		MCT_Susanoo_Logics
-3 Cyprus	NEUIslanders
-3 Japan		ODENS
-3 USA		RFC_Cambridge
-3 Brazil 	RoboFEI
-3 Brazil	RoboIME
-3 USA 		RoboJackets
-3 Colombia 	STOxs
+# Seed Group 3:
+3 Germany	ER-Force
+3 Brazil1	FURGbot
+3 Iran		Immortals
+3 Japan		MCT Susanoo Logics
+3 TRNC		NEUislanders
+3 Brazil1	RoboFEI
+3 Brazil1	RoboIME
+3 USA		RoboJackets
 3 Canada	Thunderbots
-3 Germany 	TIGERS_Mannheim
-3 Dumm		Dummy3
-3 Dumm		Dummy4
+3 Germany	Tigers Mannheim
+3 Dummy		Dummy 3
+3 Dummy		Dummy 4
+
+# Seed Group 4:
+4 Pakistan	ACES
+4 Chile		IRSS Deluxe
+4 Brazil2	UaiSoccer
+4 Brazil2	Warthog Robotics
+
