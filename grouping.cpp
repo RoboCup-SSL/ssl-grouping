@@ -33,7 +33,7 @@
 #include <string.h>
 #include <vector>
 
-static const int NumGroups = 4;
+static const int NumGroups = 2;
 static const int MaxAllowableCountryBias = 0;
 static const char *TeamFile = "teams.txt";
 
@@ -168,15 +168,13 @@ bool RandomizeGroups()
       return(false);
     }
 
-    // permute entries at this rank (except for rank 1)
-    if(r > 1){
-      for(int k=0; k<nr-1; k++){
-        uint32_t l = rng.get() % (nr-k);
-        swap(teams[i+k],teams[i+k+l]);
-        if(Debug) printf("  %d:[0..%d]\n",l,nr-k-1);
-      }
-      if(Debug) printf("\n");
+    // permute entries at this rank
+    for(int k=0; k<nr-1; k++){
+      uint32_t l = rng.get() % (nr-k);
+      swap(teams[i+k],teams[i+k+l]);
+      if(Debug) printf("  %d:[0..%d]\n",l,nr-k-1);
     }
+    if(Debug) printf("\n");
 
     // advance indicies
     i = j;
