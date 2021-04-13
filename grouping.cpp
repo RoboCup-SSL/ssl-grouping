@@ -33,7 +33,7 @@
 #include <string.h>
 #include <vector>
 
-static const int NumGroups = 2;
+static const int NumGroups = 4;
 static const int MaxAllowableCountryBias = 0;
 static const char *TeamFile = "teams.txt";
 

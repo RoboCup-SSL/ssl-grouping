@@ -1,13 +1,27 @@
 # Seed Group 1:
-1 A	CMmus
-1 B ER-Force
-1 C ZJUNlict
-1 D RoboDragons
-1 E TIGERS_Mannheim
-1 F Immortals
+1 Germany ER-Force
+1 Germany TIGERs
+1 Iran MRL
+1 Japan RD
 
-# Seed Group 2:
-2 G KIKS
-2 H UMass_MinuteBots
-2 I RoboTeam_Twente
-2 J DUMMY
+# seed Group 2:
+2 Netherlands RoboTeam-Twente
+2 Canada UBC-Thunderbots
+2 Japan KIKS
+2 China SRC
+
+# Seed Group 3:
+3 Brazil RoboFEI
+3 Brazil RoboIME
+3 Brazil RoboCIn
+3 USA RoboJackets
+
+#Seed Group 4:
+4 USA Tritons RCSC
+4 Brazil ITAndroids
+4 India KgbKubs
+4 Chile SysmicRobotics
+4 Iran Omid
+4 Russia URoboRus
+4 Dummy Dummy1
+4 Dummy Dummy2
