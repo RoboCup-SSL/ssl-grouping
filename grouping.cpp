@@ -33,7 +33,7 @@
 #include <string.h>
 #include <vector>
 
-static const int NumGroups = 2;
+static int NumGroups = 2;
 static const int MaxAllowableCountryBias = 0;
 static const char *TeamFile = "teams.txt";
 
@@ -224,14 +224,22 @@ void PrintGroups()
 
 int main(int argc,char **argv)
 {
-  if(argc != 3){
-    printf("usage:\n  grouping <seed 1> <seed 2>\n");
+  if(argc != 4){
+    printf("usage:\n  grouping <nrOfGroups> <seed 1> <seed 2>\n");
     return(1);
   }
 
+  uint32_t localGroups;
+  if(!GetInt(argv[1], localGroups)){
+    printf("invalid #groups\n");
+    return(3);
+  }
+
+  NumGroups = localGroups;
+
   uint32_t seed0 = 0;
   uint32_t seed1 = 0;
-  if(!GetInt(argv[1],seed0) || !GetInt(argv[2],seed1)){
+  if(!GetInt(argv[2],seed0) || !GetInt(argv[3],seed1)){
     printf("invalid seed\n");
     return(2);
   }

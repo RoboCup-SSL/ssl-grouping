@@ -1,0 +1,20 @@
+# Seed Group 1:
+
+1 BrazilA RoboCIn
+1 BrazilB RoboIME
+1 Germany luhbots-Soccer
+1 BrazilC RoboFEI
+
+# Seed Group 2:
+
+2 Canada UBC-Thunderbots
+2 Japan Ri-one
+2 USA RoboJackets
+2 France NAMEc
+
+# Seed Group 3: 
+
+3 BrazilD ITAndroids
+3 Chile Sysmic-Robotics
+3 USA The-A-Team
+3 Thailand OrcaBOT
