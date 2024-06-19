@@ -1,13 +1,15 @@
 # Seed Group 1:
 1 GermanyA TIGERs
-1 ChinaA ZJUNlict
+1 China ZJU
 
 # Seed Group 2
-2 GermanyB ER-Force
 2 JapanA Robodragons
-2 Netherlands Roboteam-Twente
-2 ChinaB SRC
+2 GermanyB ER-Force
+2 GermanyD Immortals
+2 JapanB KIKS
 
 # seed Group 3:
-3 JapanB KIKS
-3 Iran Immortals
+3 Netherlands Roboteam-Twente
+3 Dummy Dummy2
+3 Brazil RoboCin
+3 GermanyC LUHBots
