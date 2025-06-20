@@ -1,17 +1,15 @@
 # Seed Group 1:
-1 Canada UBC-Thunderbots
-1 Japan Ri-one
+1 Brazil ITAndroids
+1 USA RoboJackets
+1 Netherlands DelftMercurians
+1 USA The-A-Team
 
 # Seed Group 2:
-2 BrazilD ITAndroids
-2 BrazilC RoboFEI
-2 USA RoboJackets
-2 France NAMEc
+2 Chile Sysmic
+2 BrazilB RoboFEI
+
 
 
 # Seed Group 3: 
-
-3 Dummy Dummy
-3 USA The-A-Team
-3 Netherlands Delf-Mercurians
-3 Australia TurtleRabbit
+3 Brazil WarthogRobotics
+3 Canada The-Bots
