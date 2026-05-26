@@ -1,15 +1,21 @@
-# Seed Group 1:
+# Seed Group 1 (RC 2025 top 4):
 1 Brazil ITAndroids
+1 Canada The_Bots
+1 Brazil Warthog_Robotics
 1 USA RoboJackets
-1 Netherlands DelftMercurians
-1 USA The-A-Team
 
-# Seed Group 2:
-2 Chile Sysmic
-2 BrazilB RoboFEI
+# Seed Group 2 (RC 2025 participants + RC2024 top 4):
+2 Netherlands Delft_Mercurians
+2 USA The_A-Team
+2 Canada UBC_Thunderbots
+2 France NAMeC
 
-
-
-# Seed Group 3: 
-3 Brazil WarthogRobotics
-3 Canada The-Bots
+# Seed Group 3:
+3 Australia TurtleRabbit
+3 USA TritonBots
+3 Germany RoboCup_Junior_SSL_Team
+3 Sweden SeeGoals
+3 Japan GreenTea
+3 Japan Traps
+3 dummy dummy
+3 dummy dummy2
