@@ -1,16 +1,16 @@
-# Seed Group 1:
+# Seed Group 1 (RC2025 top 2):
 1 GermanyA TIGERs Mannheim
 1 ChinaA ZJUNlict
 
-# Seed Group 2
+# Seed Group 2 (RC2025 participants + KIKS due to a better placement at GO 26):
 2 Brazil RoboCIn
 2 JapanA RoboDragons
 2 GermanyB ER-Force
-2 Dummy Dummy2
+2 JapanB KIKS
 
 # seed Group 3:
 3 GermanyC luhbots
-3 JapanB KIKS
 3 JapanC Ri-one
 3 ChinaB SRC
+3 Dummy Dummy
 
