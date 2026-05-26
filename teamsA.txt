@@ -1,5 +1,5 @@
 # Seed Group 1 (RC2025 top 2):
-1 GermanyA TIGERs Mannheim
+1 GermanyA TIGERs_Mannheim
 1 ChinaA ZJUNlict
 
 # Seed Group 2 (RC2025 participants + KIKS due to a better placement at GO 26):
