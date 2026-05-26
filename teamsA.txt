@@ -3,7 +3,7 @@
 1 ChinaA ZJUNlict
 
 # Seed Group 2
-2 Brazil RobôCIn
+2 Brazil RoboCIn
 2 JapanA RoboDragons
 2 GermanyB ER-Force
 2 Dummy Dummy2
