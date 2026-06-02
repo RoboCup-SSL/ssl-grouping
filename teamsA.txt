@@ -11,6 +11,4 @@
 # seed Group 3:
 3 GermanyC luhbots
 3 JapanC Ri-one
-3 ChinaB SRC
-3 Dummy Dummy
 
